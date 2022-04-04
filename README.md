@@ -47,7 +47,10 @@ EnigmaSharpCLI.exe -e [file path] [reflector B/C/ETW] 3x [rotor number I-V] 3x [
 Example:
 EnigmaSharpCLI.exe -e "C:\crypto\text.txt" B I II III C B D F G D AZ BC
 ```
+## How to build
 
-## Dependencies
+Build using Visual Studio and .NET Framework 4.8.
+
+### Dependencies
 
 * LibEnigmaSharp [GitHub](https://github.com/wak-sudo/LibEnigmaSharp)
