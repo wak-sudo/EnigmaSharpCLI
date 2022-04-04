@@ -49,7 +49,7 @@ EnigmaSharpCLI.exe -e "C:\crypto\text.txt" B I II III C B D F G D AZ BC
 ```
 ## How to build
 
-Build using Visual Studio and netcoreapp3.1.
+Build using Visual Studio and .NET Core 3.1.
 
 ### Dependencies
 
